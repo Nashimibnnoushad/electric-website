@@ -1,0 +1,7 @@
+.background_img {
+    background: transparent;
+    mix-blend-mode: multiply;
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}
